@@ -1,2 +1,2 @@
 # Napredno-Programiranje
-sollutions of NP
+Resenija na lab. zadaci od predmetot Napredno Programiranje 2017/2018
